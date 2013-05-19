@@ -5,6 +5,4 @@ conflict managment
 
 writing this in local editor
 
-editing on github
-
-
+the remote change is not here. will it silently ignore this when I save the file?
